@@ -1,8 +1,10 @@
 ESP32_USBC
 Custom PCB for an ESP32 development board with two USB-C connectors for power, programming, and peripheral interfaces.
 
+
 🌟 Project Overview
 Compact 4-layer board demonstrating embedded control, USB interfacing, Wi-Fi, and power regulation.
+
 
 🔧 Key Features
 
@@ -12,11 +14,13 @@ Compact 4-layer board demonstrating embedded control, USB interfacing, Wi-Fi, an
 * Fully routed in Altium Designer, 4-layer PCB
 * Custom symbol and footprint libraries created for components
 
+
 ⚡ Applications
 
 * Wi-Fi development & prototyping
 * USB-powered embedded systems
 * IoT & sensor interfacing
+
 
 📂 Project Files
 
@@ -26,6 +30,7 @@ Compact 4-layer board demonstrating embedded control, USB interfacing, Wi-Fi, an
 * README.md – Project overview
 * LICENSE – MIT License
 * Custom libraries (symbols & footprints)
+
 
 👨‍🔧 Author
 Naor David
