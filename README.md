@@ -31,8 +31,10 @@ Compact 4-layer board demonstrating embedded control, USB interfacing, Wi-Fi, an
 * LICENSE – MIT License
 * Custom libraries (symbols & footprints)
 ---
-## 👨‍🔧 Author
-Naor David
+## 👨‍💻 Author
+
+**Naor David**
+Electronics Engineer
 
 
 
