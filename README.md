@@ -1,5 +1,6 @@
 ESP32-USBC_PCB
 ![ESP32-USBC\_PCB](Images/ESP32-USBC_PCB.png)
+
 Custom PCB for an ESP32 development board with two USB-C connectors for power, programming, and peripheral interfaces.
 
 🌟 Project Overview
