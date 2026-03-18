@@ -3,6 +3,7 @@ ESP32-USBC_PCB
 Custom PCB for an ESP32 development board with two USB-C connectors for power, programming, and peripheral interfaces.
 
 🌟 Project Overview
+
 Compact 4-layer board demonstrating embedded control, USB interfacing, Wi-Fi, and power regulation.
 
 🔧 Key Features
